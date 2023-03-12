@@ -4,6 +4,7 @@
    
 ##### Youtube Video:
 
+https://youtu.be/beDqF1fUXZM
 
 
 ##### Background:
@@ -16,7 +17,7 @@
 
 ##### Skills Used:
 
-  - AWS ClI
+  - AWS CLI
 
 
 ##### Implementation:
